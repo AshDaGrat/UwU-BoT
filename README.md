@@ -1,4 +1,6 @@
 # UwU-Bot
+# DOES NOT WORK ANYMORE, NEEDS UPDATING
+
 A discord bot that corrects you whenever you say something un-uwu
 
 If your message contains the letter r or the letter l, you best believe it will correct your bad un-uwu language
